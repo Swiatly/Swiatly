@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swiatly
-- 👀 I’m interested in coding, producing music and designing. 
+- 👀 I’m interested in coding, producing music and designing
 - 🌱 I’m currently learning JavaScript
 
 <!---
